@@ -1,6 +1,7 @@
 ﻿# ID Parser Library for Java
 This project demonstrates how to use **ID Parser library for Java** from [IDScan.net](https://idscan.net/).
-This SDK requires a license.json file from IDScan.net. Please contact sales@idscan.net if needing a license.
+This SDK requires a license.json file from IDScan.net. Contact sales@idscan.net if a license is needed.
+https://docs.idscan.net/idparsing/java.html
 ## Installation
 
 ### Eclipse
