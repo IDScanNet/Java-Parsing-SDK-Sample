@@ -4,7 +4,7 @@ This SDK requires a license.json file from IDScan.net.
 
 Contact sales@idscan.net if a license is needed.
 
-https://docs.idscan.net/idparsing/java.html
+(https://docs.idscan.net/idparsing/javaandroid.html)
 
 ## Installation
 
