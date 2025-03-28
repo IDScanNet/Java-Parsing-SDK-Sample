@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="net.idscan.parsers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Sample/net.idscan.parsers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
